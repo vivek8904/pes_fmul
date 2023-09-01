@@ -1,5 +1,5 @@
 `define M B[0]
- module fraction_multiplication (CLK, St, Mplier, Mcand, Product, Done);
+ module pes_fmul (CLK, St, Mplier, Mcand, Product, Done);
  input CLK;
  input St;
  input[3:0] Mplier;
