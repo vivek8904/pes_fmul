@@ -4,7 +4,7 @@ reg [3:0] Mplier,Mcand;
 wire [6:0] Product;
 reg CLK,St;
 wire Done;
-fraction_multiplication x1 (CLK, St, Mplier, Mcand, Product, Done);
+pes_fmul x1 (CLK, St, Mplier, Mcand, Product, Done);
 
 initial
 begin
