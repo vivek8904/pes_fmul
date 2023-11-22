@@ -24,7 +24,9 @@ Fraction Multiplication
 
 
 
+![image](https://github.com/vivek8904/pes_fmul/assets/130572147/93e9b902-ec8f-493c-a6b5-fa1f2b73f00a)
 
+![image](https://github.com/vivek8904/pes_fmul/assets/130572147/c41a2254-36e3-451e-a1f8-a026f56446c5)
 
 
 
