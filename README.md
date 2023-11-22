@@ -16,4 +16,22 @@ Fraction Multiplication
 
 ![image](https://github.com/vivek8904/pes_fmul/assets/130572147/be52263d-9645-4b34-a825-62732c0bb345)
 
+![image](https://github.com/vivek8904/pes_fmul/assets/130572147/b3869582-aa03-4c4a-8724-d19a095653d1)
+
+![image](https://github.com/vivek8904/pes_fmul/assets/130572147/246077da-2b4c-4d58-bb25-8051b0cbc271)
+
+![image](https://github.com/vivek8904/pes_fmul/assets/130572147/5eff5360-c003-4904-829c-ff7d664df654)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/vivek8904/pes_fmul/assets/130572147/24dfc66b-85b2-4318-ad12-58c69dd8b452)
